@@ -17,7 +17,7 @@ Nexus is a dynamic and interactive platform designed to detect and visualize com
 
 ## Demo
 
-Check out the [demo video](link_to_demo_video) to see Nexus in action!
+Check out the [demo video](https://youtu.be/1ug51hOdr7w) to see Nexus in action!
 
 ## Technologies Used
 
