@@ -29,7 +29,7 @@ Check out the [demo video](https://youtu.be/1ug51hOdr7w) to see Nexus in action!
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Nexus.git
+    git clone https://github.com/AdityaAgarwal664/Nexus-A-Community-Detection-Platform.git
     cd Nexus
     ```
 
