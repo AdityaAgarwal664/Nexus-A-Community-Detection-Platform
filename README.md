@@ -1,4 +1,4 @@
-# Nexus: Community Detection Visualization Platform
+# Nexus: Community Detection Visualization Platform [An A<sup>2</sup> Product]
 
 Nexus is a dynamic and interactive platform designed to detect and visualize communities within networks. It provides users with various algorithms to identify influencers and sort them based on community density or size. The platform is built using Python, Flask, HTML, CSS, JavaScript, and NetworkX.
 
